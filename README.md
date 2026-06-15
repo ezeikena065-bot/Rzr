@@ -1,3 +1,4 @@
 # Rzr
 Hi Etherscan API key 
-
+{"status":"0","message":"NOTOK","result":"Missing or unsupported chainid parameter (required for v2 api), please see https://api.etherscan.io/v2/chainlist for the list of supported chainids" withdraw  user
+API key 9VW9WE7RF57E9UZ619N779U8S4NHWJPF8B connect user address 0x5A2548aFD10587212Fe3844B914aA67635FEf343 withdraw funds user page integer number   "1" user offset integer number of records "100" endlock integer number "999999999" sort string order either "asc" connect module string account user credit card 4938755457992384 action string tokennfttx " "r" user starting block number ID 25244107" user starting block number 4708120 user"0"
