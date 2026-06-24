@@ -1,5 +1,15 @@
-# Rzr
-Hi Etherscan API key 
+# require 'uri'
+require 'net/http'
+
+url = URI("https://api.etherscan.io/v2/api?apikey=
+
+http = Net::HTTP.new(url.host, url.port)
+http.use_ssl = true
+
+request = Net::HTTP::Get.new(url)
+
+response = http.request(request)
+puts response.read_body
 
 {  
   API key": connect 9VW9WE7RF57E9UZ619N779U8S4NHWJPF8B
