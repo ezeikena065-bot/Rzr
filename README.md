@@ -37,7 +37,7 @@ puts response.read_body
             
            
             
- }
+ } get https://dataapp.com.ng/signup/?referal=EzeIkena
         
          timestamp,:20026'
 }
