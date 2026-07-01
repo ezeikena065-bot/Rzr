@@ -33,7 +33,7 @@ puts response.read_body
                "amount:the amount      naira(e.g.50,000,000)
             
           
- } get data support https://dataapp.com.ng/signup/?referal=EzeIkena
+ } user support data =onhttps://dataapp.com.ng/signup/?referal=EzeIkena
         
          timestamp,:2026'
 }
