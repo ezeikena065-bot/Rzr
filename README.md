@@ -12,16 +12,7 @@ response = http.request(request
 puts response.read_body=.require 'net/http'
 
 url = URI(Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4,"
-  "status": "1",
-  "message": "OK",
-  "result": [
-    {
-      "withdrawalIndex": "13",
-      "validatorIndex": "117823",
-      "address": 0xd7A7224564d40bc615669612aa06f800026FBBEA,"
-      "amount": "40000,"
-      "blockNumber": "17034877",
-      "timestamp": "1681338599"
+  
     {
   [
 {
