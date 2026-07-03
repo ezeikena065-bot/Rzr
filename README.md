@@ -10,7 +10,21 @@ request = Net::HTTP::Get.new(url=get the basis )
 
 response = http.request(request)
 puts response.read_body
-{
+{{
+ {
+  "status": "1",
+  "message": "OK",
+  "result": [
+    {
+      "withdrawalIndex": "13",
+      "validatorIndex": "117823",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "3402931175",
+      "blockNumber": "17034877",
+      "timestamp": "1681338599"
+    }
+  ]
+}
   "mother
    "return" me my balance in naira    
         withdrawal_with, 
