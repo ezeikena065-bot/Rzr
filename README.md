@@ -11,10 +11,8 @@ request = Net::HTTP::Get.new(url=get the basis
 response = http.request(request
 puts response.read_body=.require 'net/http'
 
-url = URI(Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4,"
-    {
-  [
-{
+url = URI(Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBk
+
   "mother
    "return" me my balance in naira    
         withdrawal_with, 
