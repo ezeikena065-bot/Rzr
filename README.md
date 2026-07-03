@@ -18,8 +18,8 @@ puts response.read_body
     {
       "withdrawalIndex": "13",
       "validatorIndex": "117823",
-      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
-      "amount": "3402931175",
+      "address": 0xd7A7224564d40bc615669612aa06f800026FBBEA,"
+      "amount": "40000,"
       "blockNumber": "17034877",
       "timestamp": "1681338599"
     }
