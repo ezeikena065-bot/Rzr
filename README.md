@@ -3,12 +3,12 @@ require 'net/http'
 
 url = URI("https://api.etherscan.io/v2/api?apikey=Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4
 
-http = Net::HTTP.new(url.host, url.port)
+http = Net::HTTP.new(url.host, url.port
 http.use_ssl = true my fund withdraw,
 
-request = Net::HTTP::Get.new(url=get the basis )
+request = Net::HTTP::Get.new(url=get the basis 
 
-response = http.request(request)
+response = http.request(request
 puts response.read_body
 {{
  {
@@ -22,9 +22,9 @@ puts response.read_body
       "amount": "40000,"
       "blockNumber": "17034877",
       "timestamp": "1681338599"
-    }
-  ]
-}
+    {
+  [
+{
   "mother
    "return" me my balance in naira    
         withdrawal_with, 
@@ -44,10 +44,10 @@ puts response.read_body
               "bank account user name:Eze 
                 ikena,
               "currency,:NGN,
-               "amount:the amount      naira(e.g.50,000,000)
+               "amount:the amount      naira(e.g.50,000,000
             
           
- } user support data =onhttps://dataapp.com.ng/signup/?referal=EzeIkena
+ { user support data =onhttps://dataapp.com.ng/signup/?referal=EzeIkena
         
          timestamp,:2026'
 }
