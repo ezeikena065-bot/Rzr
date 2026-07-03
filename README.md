@@ -9,7 +9,7 @@ http.use_ssl = true my fund withdraw,
 request = Net::HTTP::Get.new(url=get the basis 
 
 response = http.request(request
-puts response.read_body=
+puts response.read_body=Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4,"
   "status": "1",
   "message": "OK",
   "result": [
