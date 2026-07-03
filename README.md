@@ -12,7 +12,6 @@ response = http.request(request
 puts response.read_body=.require 'net/http'
 
 url = URI(Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4,"
-  
     {
   [
 {
