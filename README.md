@@ -9,14 +9,9 @@ http.use_ssl = true my fund withdraw,
 request = Net::HTTP::Get.new(url=get the basis 
 
 response = http.request(request
-puts response.read_body=.require 'net/http'
-
-url = URI(Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBk,
-
-  "mother
-   "return" me my balance in naira    
-        withdrawal_with, 
-        "withdraw"
+puts response.read_body=mother
+   return me my balance in naira,    
+        withdrawal
          use my address get balance to Bank account, 
     "wellat address network"Ethrerum "wellat_address":0xd7A7224564d40bc615669612aa06f800026FBBEA,
     "starting_block_ID,:25244107,
