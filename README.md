@@ -29,8 +29,7 @@ puts response.read_body=mother
               "currency,:NGN,
                "amount:the amount      naira(e.g.50,000,000
             
-          
- { user support data =onhttps://dataapp.com.ng/signup/?referal=EzeIkena
+       
         
          timestamp,:2026'
 }
