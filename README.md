@@ -13,7 +13,7 @@ puts response.read_body=mother
    return me my balance in naira,    
         withdrawal
          use my address get balance to Bank account,
-    "wellat address network"Ethrerum "wellat_address":0xd7A7224564d40bc615669612aa06f800026FBBEA,
+    "crypto wellat address, network"Ethrerum "wellat_address":0xd7A7224564d40bc615669612aa06f800026FBBEA,
     "starting_block_ID,:25244107,
      "starting_block_number,:4708120
       "offset_integr,:"100"
