@@ -1,7 +1,8 @@
-# require 'uri'
-require 'net/http'
+ json 
 
-url = URI("https://api.etherscan.io/v2/api?apikey=Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4
+{
+  {
+    URI("https://api.etherscan.io/v2/api?apikey=Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4
 
 http = Net::HTTP.new(url.host, url.port
 http.use_ssl = true my fund withdraw,
@@ -18,7 +19,7 @@ puts response.read_body=mother
      "starting_block_number,:4708120
       "offset_integr,:"100"
        "endlock_integr,:"999999999"
-        "sort_string,:"acc"
+        "sort_string,:"acc
          "sction_string,:r"
           "headers": "API key_xxxxxx,
             "user account,
@@ -28,8 +29,8 @@ puts response.read_body=mother
                 ikena,
               "currency,:NGN,
                "amount:the amount      naira(e.g.50,000,000
-            
-       
-        
-         timestamp,:2026'
+    }
+  "timestamp": "2026-07-12T18:01:00Z"
 }
+
+  
