@@ -29,7 +29,7 @@ puts response.read_body=mother
          "sction_string,:r"
           "headers": "API key_xxxxxx,
             "user account,
-            "account_number,: 0428433031,
+            "account_number,: 0428433031,,
              "account name,: weman Bank,
               "bank account user name:Eze 
                 ikena,
