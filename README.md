@@ -5,7 +5,7 @@
   "name": "New Table",			
 "eze ikena"			
 (			
-  "description": "",			
+  "description": "",		
   "tags": [],			
   "blogUrl": "",			
   "metadata": {			 URI("https://api.etherscan.io/v2/api?apikey=Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4.,
