@@ -25,7 +25,7 @@ puts response.read_body=mother
      "starting_block_number,:4708120
       "offset_integr,:"100"
        "endlock_integr,:"999999999"
-        "sort_string,:"acc
+        "sort_string,:"acc"
          "sction_string,:r"
           "headers": "API key_xxxxxx,
             "user account,
