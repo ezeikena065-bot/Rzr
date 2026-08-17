@@ -83,7 +83,7 @@ http.use_ssl = true my fund withdraw,
 request = Net::HTTP::Get.new(url=get the basis 
 
 response = http.request(request
-puts response.read_body=mother
+puts response.read,:=mother
    return me my balance in naira,    
         withdrawal
          use my address get balance to Bank account,
