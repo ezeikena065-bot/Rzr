@@ -2,8 +2,8 @@
 			
 			
 {			
-  "name": "New Table",			
-"eze ikena"			
+		
+
 (			
   
 // Use Secrets Manager in a Lambda function with AWS-Parameters-and-Secrets-Lambda-Extension lambda layer extension
