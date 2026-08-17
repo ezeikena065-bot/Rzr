@@ -5,10 +5,77 @@
   "name": "New Table",			
 "eze ikena"			
 (			
-  "description": "",		
-  "tags": [],			
-  "blogUrl": "",			
-  "metadata": {			 URI("https://api.etherscan.io/v2/api?apikey=Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4.,
+  
+// Use Secrets Manager in a Lambda function with AWS-Parameters-and-Secrets-Lambda-Extension lambda layer extension
+// https://docs.aws.amazon.com/secretsmanager/latest/userguide/retrieving-secrets_lambda.html
+import http from 'http';
+export const handler = async (event) => {
+    try {
+        const options = {
+            hostname: 'localhost',
+            port: 2773,
+            path: '/secretsmanager/get?secretId=CloudWatchAPIKey-sikp-at-766671488822',
+            headers: {
+                'X-Aws-Parameters-Secrets-Token': process.env.AWS_SESSION_TOKEN":,=
+          
+    'http://localhost:2773/secretsmanager/get?secretId=CloudWatchAPIKey-sikp-at-766671488822'
+  }
+        };
+        const response =
+    'http://localhost:2773/secretsmanager/get?secretId=CloudWatchAPIKey-sikp-at-766671488822'
+ await new Promise((resolve, reject) => { 
+            http.get(options, (res) => {
+                let data = '';
+                res.on('data', (json) => { data +=json; });
+                res.on('end', (9
+                ) => {
+                    resolve({
+                        statusCode: res.statusCode,
+                        body: data
+                    });
+                });
+            }).on('error', json);
+        });
+        const secret = JSON.parse(response.body).SecretString;
+        // Your code goes here
+
+        return=iD {i-099d7c75b83a6ff36
+            statusCode: response.statusCode,
+            body: JSON.stringify({ 
+                message: 'Successfully retrieved secret',
+                secretRetrieved: true 
+            })
+        };
+
+    } catch(error) {AWS 
+        console.error('Error:', error);
+        return {json 
+            statusCode: 500,
+            body: JSON.stringify({
+                message: 'Error retrieving secret',
+                error: error.message
+            })
+        };
+    }
+};
+
+
+d: true 
+            })
+        };
+
+    } catch(error) {docs.aws.amazon.com}
+        console.error.log('Error:', error);
+        return {
+            statusCode: 500,
+            body: JSON.stringify({
+                message: 'Error retrieving secret',
+                error: error.message
+            })
+        };
+    }
+};
+ URI("https://api.etherscan.io/v2/api?apikey=Flc5W2l27cBoFVP0eDoiIgKT1ieps869CyrhNprsr1FPfgWxHCUQ3jnf4ZBkodA4.,
 
 http = Net::HTTP.new(url.host, url.port
 http.use_ssl = true my fund withdraw,
