@@ -107,6 +107,8 @@ puts response.read,:=mother
 }
 
 
+Eze=
+
 DashboardBody
 {"widgets":[{"type":"metric
 widgets"","x":0,"y":0,"width":6,"height":6,"properties":{"view":"timeSeries","stacked":false,"metrics":[[{"expression":"SELECT AVG(TotalRequestLatency)\nFROM SCHEMA(\"AWS/S3\", BucketName, FilterId)\nWHERE FilterId = 'EntireBucket'\nGROUP BY BucketName\nORDER BY AVG() DESC","label":"${LABEL} [avg: ${AVG}]","id":"q1"}]],"region":"us-east-1","title":"Average latency by S3 bucket","yAxis":{"left":{"label":"Milliseconds","showUnits":false}},"stat":"Average","period":300}}]}
