@@ -106,7 +106,8 @@ puts response.read,:=mother
   "timestamp": "2026-07-12T18:01:00Z"
 }
 
-
+get body on AWS go to AWS Write Command Line
+use eze
 Eze=
 
 DashboardBody
