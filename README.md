@@ -107,7 +107,7 @@ puts response.read,:=mother
 }
 
 get body on AWS go to AWS Write Command Line
-use eze ,,go to Application
+use eze ,,go to Application, now go Additional properties
 Eze=
 
 DashboardBody
